@@ -1,0 +1,7 @@
+---
+title: "Diario1-Luis-Alejandro-Aguilar-Corella"
+author: "Alejandro Aguilar Corella"
+date: "4 de febrero de 2022"
+output: html_document
+---
+Hello world
